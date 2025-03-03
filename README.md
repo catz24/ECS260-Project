@@ -1,7 +1,7 @@
 # Code-Related Metrics as Indicators of Sustainability
 
 ## Overview
-Identify the pattern cyclomatic and cognitive complexity, and project elements, such size, version control practice, code duplication, and number of contributors in ~200 projects. This is a course project for ECS 260 in UC Davis.
+Identify the pattern of cyclomatic and cognitive complexity using project elements, such size, version control practice, code duplication, and number of contributors in ~200 projects. This is a course project for ECS 260 in UC Davis.
 
 ## Git-Sizer - Analyzing for Code Duplication
 - gitsizer_data.csv - Full data ran with gitsizer
