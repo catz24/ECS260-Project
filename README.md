@@ -3,6 +3,9 @@
 ## Overview
 Identify the pattern of cyclomatic and cognitive complexity using project elements, such size, version control practice, code duplication, and number of contributors in ~200 projects. This is a course project for ECS 260 in UC Davis.
 
+## Experiments
+All experiments are performed in the `src` directory.
+
 ## Git-Sizer - Analyzing for Code Duplication
 - gitsizer_data.csv - Full data ran with gitsizer
 - repo_size.csv - Data on size of repositories
