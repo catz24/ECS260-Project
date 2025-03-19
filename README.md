@@ -6,6 +6,9 @@ Identify the pattern of cyclomatic and cognitive complexity using project elemen
 ## Experiments
 All experiments are performed in the `src` directory.
 
+## LLM Usage Documentation
+We utilized LLMs to assist in identifying relevant research papers and to generate portions of the code used in our experiments.
+
 ## Git-Sizer - Analyzing for Code Duplication
 - gitsizer_data.csv - Full data ran with gitsizer
 - repo_size.csv - Data on size of repositories
